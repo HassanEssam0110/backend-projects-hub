@@ -2,11 +2,12 @@
 
 A collection of all my backend projects.
 
-| #   | Project Name            | Tech Stack                              | Repository Link                                           | Description                                                 |
-| --- | ----------------------- | --------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- |
-| 1   | **Authors & Books API** | Node.js, Express, MongoDB               | [Repo](https://github.com/yourusername/authors-books-api) | A REST API to manage authors and books.                     |
-| 2   | **E-Commerce Backend**  | Node.js, Express, Sequelize, PostgreSQL | [Repo](https://github.com/yourusername/ecommerce-backend) | Backend services for an e-commerce platform.                |
-| 3   | **Job Search API**      | Node.js, Express, MongoDB, JWT          | [Repo](https://github.com/yourusername/job-search-api)    | A job search API with authentication and role-based access. |
+| #   | Project Name                                             | Tech Stack                | Repository Link                                                              | Description                                                                                          |
+| --- | -------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1   | **Simple CRUD Books API**                                | Node.js, Express, MongoDB | [Repo](https://github.com/HassanEssam0110/Task-1-CRUD-API-for-Books.git)     | REST API that allows users to perform CRUD (Create, Read, Update, Delete) operations on a book.      |
+| 2   | **REST API with Relations and Multiple CRUD Operations** | Node.js, Express, MongoDB | [Repo](https://github.com/HassanEssam0110/Task-2-books-authors-crud-api.git) | REST API that manages authors and their books, demonstrating relations and multiple CRUD operations. |
+
+                                                    |
 
 ---
 
